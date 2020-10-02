@@ -1,0 +1,6 @@
+export const FETCH_USER= 'fetch_user'
+export const FETCH_SURVEYS= 'fetch_surveys'
+export const FETCH_PRODUCTS = 'fetch_product'
+export const ADD_TO_CART= 'add_to_cart'
+export const UPDATE_CART= 'update_cart'
+export const CLEAR_CART='clear_cart'

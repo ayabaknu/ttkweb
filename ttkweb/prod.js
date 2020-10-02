@@ -1,0 +1,11 @@
+module.exports =[
+  {"id":"1","name":"laptop","price":350,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1567087797161-622b0d665da0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80","alt":"alt for one"},"_id":"4BKdETXjCCDYvLJK"},
+  {"id":"8","name":"labtop","price":550,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1559163479-98365644374a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for four"},"_id":"4vhhxx2DnaGbW7gE"},
+  {"id":"9","name":"calculator","price":45,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for four"},"_id":"8O4gYZji1Wzd9GES"},
+  {"id":"3","name":"wall watch","price":25,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for three"},"_id":"MmNnP8zoVqA76oiU"},
+  {"id":"5","name":"used phone","price":115,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1560994470-52f147e76d1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for four"},"_id":"QBnNuDgoZiHIfZh3"},
+  {"id":"2","name":"laptop","price":450,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1561517146-815245fcbfde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for two"},"_id":"hDtP9GH3e8PjZEB5"},
+  {"id":"7","name":"all in one","price":1100,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1483470134942-13bbf4677d84?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80","alt":"alt for four"},"_id":"hOTRufNwOi9zh0OG"},
+  {"id":"6","name":"computer","price":550,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1493020258366-be3ead1b3027?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80","alt":"alt for four"},"_id":"lmzATGvMCzFVeoQU"},
+  {"id":"4","name":"phone","price":92,"quantity":1,"image":{"url":"https://images.unsplash.com/photo-1546621083-17f1e50980e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80","alt":"alt for four"},"_id":"pvHvToZPFKHkkQEn"}
+]

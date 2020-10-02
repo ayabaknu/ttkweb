@@ -1,0 +1,10 @@
+module.exports={
+  googleClientID:process.env.GOOGLE_CLIENT_ID,
+  googleClientSecret:process.env.GOOGLE_CLIENT_SECRET,
+  mongoURI:process.env.MONGO_URI,
+  cookieKey:process.env.COOKIE_KEY,
+  debkKey:process.env.DEBK_KEY,
+  pkKey:process.env.PK_KEY,
+  sendGrid:process.env.SEND_GRID,
+  redirect:process.env.REDIRECT
+}
